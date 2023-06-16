@@ -1,6 +1,6 @@
 package com.driver.test;
 
-public class Main {
+public class TestCases {
     public static class A{
         public String meth(){
             return "Invoking method from class A";
@@ -16,7 +16,8 @@ public class Main {
  B b = new B();
         b.meth();
  B b1 = new B();
- b1.meth();
+
+        b1.meth();
     }
     
 }

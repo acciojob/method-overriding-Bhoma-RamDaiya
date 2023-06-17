@@ -13,6 +13,7 @@ public class TestCases {
  }
     }
     public static void main(String[] args) {
+        int x =0 ;
  B b = new B();
         b.meth();
  B b1 = new B();
